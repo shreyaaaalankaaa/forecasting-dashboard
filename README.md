@@ -1,7 +1,7 @@
 # Forecasting Dashboard
 
 A Streamlit dashboard that compares classical forecasting models on any CSV. It trains on the past, tests on the future, and reports every model's error against a naive baseline, so you can see whether a model actually adds value.
-
+**Live demo:** https://forecasting-dashboard-2g5f4lseacs8kxnosypemh.streamlit.app
 ![Dashboard](assets/dashboard.png)
 
 ## What it does
